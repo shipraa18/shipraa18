@@ -89,27 +89,15 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://giphy.com/gifs/pudgypenguins-work-tired-night-shift-25Itcrcuwkyq3ohubJ"  />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJ5eGJ0YTY1YTczdW1mM24yamt3bDh0dml1d2hibmlkeTQ4dnZzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/25Itcrcuwkyq3ohubJ/giphy.webp"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/5lwj5i6ye2twycsxw1zhipkdu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=5lwj5i6ye2twycsxw1zhipkdu&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
-<!--
-**shipraa18/shipraa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
